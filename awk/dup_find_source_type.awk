@@ -1,4 +1,5 @@
 ##Simple awk program to scan a directory and report the file extensions
+#waited for some time
 {
 count[$1]++
 }
